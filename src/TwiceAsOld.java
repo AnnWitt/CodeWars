@@ -15,7 +15,7 @@ public class TwiceAsOld {
     old as his son (or in how many years he will be twice as old).*/
 
     public static int TwiceAsOld(int dadYears, int sonYears) {
-        //TODO: Add code here
+
 
         System.out.println("Father is " + dadYears + " years old. The son is "
                 + sonYears + " old.");
